@@ -1,0 +1,310 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap');
+
+html{
+    background-image: url("https://aigis.club/uploads/posts/2022-01/1642654120_6-adonius-club-p-odnotonnii-pastelnii-rozovii-fon-10.jpg");
+}
+
+/*header*/
+
+.containerParenthd{
+    background-color: rgba(255, 115, 0, 0.449);
+    height: 100px;
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    border-radius: 10px;
+    align-items: center;
+}
+.containerChildhvs{
+    height: 80px;
+    width: 400px;
+    border-radius: 50px;
+    background-color: rgba(255, 0, 0, 0.682);
+}
+.containerChildhvs2{
+    height: 80px;
+    width: 400px;
+    border-radius: 50px;
+    background-color: rgba(255, 0, 0, 0.682);
+}
+.containerChildhmain{
+    height: 80px;
+    width: 600px;
+    border-radius: 50px;
+    background-color: rgba(255, 115, 0, 0.449);
+}
+
+/* propuski */
+.containerParentprpsk{
+    background-color: rgba(255, 115, 0, 0);
+    height: 100px;
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    border-radius: 10px;
+    align-items: center;
+}
+
+.containerParentprpsk2{
+    background-color: rgba(255, 115, 0, 0);
+    height: 100px;
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    border-radius: 10px;
+    align-items: center;
+}
+
+.containerChildprpsknews{
+    width: 150px;
+    height: 100px;
+    background-color: rgba(255, 115, 0, 0);
+}
+
+.containerChildprpskau{
+    width: 150px;
+    height: 100px;
+    background-color: rgba(255, 115, 0, 0);
+}
+
+/*center*/
+
+.containerParentcntr{
+    background-color: rgba(255, 0, 89, 0.105);
+    height: 450px;
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    border-radius: 10px;
+    align-items: center;
+}
+
+.containerParentnews{
+    height: 375px;
+    width: 400px;
+    border-radius: 50px;
+    background-color: rgba(255, 115, 0, 0.449);
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.containerChildnews{
+    height: 150px;
+    width: 280px;
+    background-color: rgba(255, 255, 255, 0);
+}
+
+.containerParentnews2{
+    height: 50px;
+    width: 200px;
+    background-color: rgb(255, 255, 255);
+    border-style: solid;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.containerChildnphoto{
+    height: 375px;
+    width: 600px;
+    border-radius: 50px;
+    border-style: solid;
+    background-image: url("https://i.postimg.cc/ncZcL0Fm/IMG-20231225-155014-318.jpg");
+}
+
+.containerParentaboutus{
+    height: 375px;
+    width: 400px;
+    border-radius: 50px;
+    background-color: rgba(255, 115, 0, 0.449);
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.containerChildau{
+    height: 150px;
+    width: 280px;
+    background-color: rgba(255, 255, 255, 0);
+}
+
+.containerParentau2{
+    height: 50px;
+    width: 200px;
+    background-color: rgb(255, 255, 255);
+    border-style: solid;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+/*Persons*/
+
+.containerGrandparentdn{
+    background-color: rgba(255, 0, 89, 0.105);
+    height: 450px;
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    border-radius: 10px;
+    align-items: center;
+}
+
+.containerParentdiana{
+    height: 375px;
+    width: 300px;
+    border-radius: 50px;
+    background-color: rgba(255, 0, 106, 0.449);
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-around;
+    border-style: solid;
+}
+
+.containerParentarseniy{
+    height: 375px;
+    width: 300px;
+    border-radius: 50px;
+    background-color: rgba(255, 0, 106, 0.449);
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-around;
+    border-style: solid;
+}
+
+.containerParentalbert{
+    height: 375px;
+    width: 300px;
+    border-radius: 50px;
+    background-color: rgba(255, 0, 106, 0.449);
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-around;
+    border-style: solid;
+}
+
+.containerParentroman{
+    height: 375px;
+    width: 300px;
+    border-radius: 50px;
+    background-color: rgba(255, 0, 106, 0.449);
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-around;
+    border-style: solid;
+}
+
+.containerChildpdphoto{
+    height: 225px;
+    width: 300px;
+    border-radius: 50px;
+    border-style: solid;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQISmyNNenj3pCDtsnw9QOGu7E_4A1l8T0tIQ&usqp=CAU");
+}
+
+.containerChildarphoto{
+    height: 225px;
+    width: 300px;
+    border-radius: 50px;
+    border-style: solid;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQISmyNNenj3pCDtsnw9QOGu7E_4A1l8T0tIQ&usqp=CAU");
+}
+
+.containerChildprphoto{
+    height: 225px;
+    width: 300px;
+    border-radius: 50px;
+    border-style: solid;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQISmyNNenj3pCDtsnw9QOGu7E_4A1l8T0tIQ&usqp=CAU");
+}
+
+.containerChildpalphoto{
+    height: 225px;
+    width: 300px;
+    border-radius: 50px;
+    border-style: solid;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQISmyNNenj3pCDtsnw9QOGu7E_4A1l8T0tIQ&usqp=CAU");
+}
+
+/*Links*/
+
+.containerChildLinkDiana{
+    height: 50px;
+    width: 300px;
+    border-radius: 50px;
+    border-style: solid;
+    background-color: rgb(255, 255, 255);
+}
+
+.containerChildLinkArseniy{
+    height: 50px;
+    width: 300px;
+    border-radius: 50px;
+    border-style: solid;
+    background-color: rgb(255, 255, 255);
+}
+
+.containerChildLinkAlbert{
+    height: 50px;
+    width: 300px;
+    border-radius: 50px;
+    border-style: solid;
+    background-color: rgb(255, 255, 255);
+}
+
+.containerChildLinkRoma{
+    height: 50px;
+    width: 300px;
+    border-radius: 50px;
+    border-style: solid;
+    background-color: rgb(255, 255, 255);
+}
+
+
+/*Texts*/
+
+#textOne{
+    font-family: 'PT Sans Narrow', sans-serif;
+    color:rgb(0, 0, 0); 
+    text-align: center; 
+    font-size: 50px; 
+}
+
+#textTwo{
+    font-family: 'PT Sans Narrow', sans-serif;
+    color:rgb(44, 44, 44); 
+    text-align: center; 
+    font-size: 30px; 
+}
+
+#textLink{
+    font-family: 'PT Sans Narrow', sans-serif;
+    color:rgb(61, 61, 61); 
+    text-align: center; 
+    font-size: 25px; 
+}

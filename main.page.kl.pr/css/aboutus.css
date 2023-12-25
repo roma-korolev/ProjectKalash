@@ -1,0 +1,177 @@
+@import url('https://fonts.googleapis.com/css2?family=Unbounded&display=swap');
+
+html{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOcPJKVNqhrri2GMAFEaJp6Wgm12eg0rDYAA&usqp=CAU);
+}
+
+/*header*/
+
+.containerParehthd{
+    background-color: rgba(255, 115, 0, 0);
+    height: 100px;
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    border-radius: 10px;
+    align-items: center;
+}
+
+.containerParenthd1{
+    background-color: rgb(255, 152, 69);
+    height: 100px;
+    width: 750px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    border-radius: 10px;
+    align-items: center;
+    border-style: solid;
+}
+
+.containerChildHd{
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    background-color: rgb(255, 152, 69);
+}
+
+.containerChildhdWrite{
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    background-color: rgba(255, 153, 69, 0);
+}
+
+.containerChildPRPSK1{
+    height: 100px;
+    width: 150px;
+    border-radius: 50px;
+    background-color: rgba(255, 153, 69, 0);
+}
+
+/*midAll*/
+
+.containerChildPRPSK2{
+    height: 100px;
+    width: 150px;
+    border-radius: 50px;
+    background-color: rgba(255, 153, 69, 0);
+}
+
+.containerParentMidAll{
+    background-color: rgba(255, 153, 69, 0);
+    height: 500px;
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.containerParentmid1{
+    background-color: rgba(78, 57, 40, 0);
+    height: 500px;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    border-radius: 10px;
+    align-items: center;
+
+    justify-content: space-around;
+}
+
+.containerParentmid2{
+    background-color: rgba(255, 153, 69, 0);
+    height: 500px;
+    width: 500px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    border-radius: 10px;
+    align-items: center;
+
+    justify-content: space-around;
+}
+
+.containerParentmid3{
+    background-color: rgba(255, 153, 69, 0);
+    height: 500px;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    border-radius: 10px;
+    align-items: center;
+    
+    justify-content: space-around;
+}
+
+/*mid third*/
+
+.containerChildmid11{
+    height: 170px;
+    width: 300px;
+    border-radius: 50px;
+    border-style: solid;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Mz1ToYWgh3qlrUwICS2Y_fzM_PSLjQ2_Cg&usqp=CAU);
+}
+
+.containerChildmid12{
+    height: 170px;
+    width: 300px;
+    border-radius: 50px;
+    border-style: solid;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQExJ_G8fJ9wpghJWsDI5T16rpQG7u1pXyt6g&usqp=CAU);
+}
+
+.containerChildmid21{
+    height: 450px;
+    width: 450px;
+    border-radius: 50px;
+    border-style: solid;
+    background-color: rgb(255, 152, 69);
+}
+
+.containerChildmid31{
+    height: 170px;
+    width: 300px;
+    border-radius: 50px;
+    border-style: solid;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE_ta9PoKuJ1satVmKmjdnIDWgT0ITWR0O2w&usqp=CAU);
+}
+
+.containerChildmid32{
+    height: 170px;
+    width: 300px;
+    border-radius: 50px;
+    border-style: solid;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-ujzGtSQC3EVp-q7WNryJKCGqTwvnoQ2WXQ&usqp=CAU);
+}
+
+/*texts*/
+
+#textLink{
+    color:rgb(240, 206, 145); 
+    text-align: center; 
+    font-size: 15px; 
+    font-family: 'Unbounded', sans-serif;
+}
+
+#textHeader{
+    color:rgb(255, 247, 231); 
+    text-align: center; 
+    font-size: 55px; 
+    font-family: 'Unbounded', sans-serif;
+}
+
+#textMid{
+    color:rgb(255, 215, 177); 
+    text-align: center; 
+    font-size: 30px; 
+    font-family: 'Unbounded', sans-serif;
+}

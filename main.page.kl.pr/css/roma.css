@@ -1,0 +1,204 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap');
+
+html{
+    background-image: url(https://avatars.mds.yandex.net/i?id=10ac415322c94d4cb6f13b1bb0938013e998cdfe-10310233-images-thumbs&n=13)
+}
+
+/*prpsk*/
+
+.containerParentPRPSK1{
+    background-color: rgba(255, 115, 0, 0);
+    width: auto;
+    height: 50px;
+}
+
+.containerParentPRPSK2{
+    background-color: rgba(255, 115, 0, 0);
+    width: auto;
+    height: 50px;
+}
+
+.containerParentPRPSK3{
+    background-color: rgba(255, 115, 0, 0);
+    width: auto;
+    height: 50px;
+}
+
+.containerParentPRPSK4{
+    background-color: rgba(255, 115, 0, 0);
+    width: auto;
+    height: 50px;
+}
+
+.containerParentPRPSK5{
+    background-color: rgba(255, 115, 0, 0);
+    width: auto;
+    height: 50px;
+}
+
+/*header*/
+
+.containerParenthdm{
+    background-color: rgba(255, 115, 0, 0);
+    height: 100px;
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    border-radius: 10px;
+    align-items: center;
+}
+
+.containerParenthdnm{
+    background-color: rgb(25, 64, 36);
+    height: 100px;
+    width: 750px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    border-radius: 10px;
+    align-items: center;
+    border-style: solid;
+}
+
+.containerChildArLink{
+    background-color: rgb(18, 45, 25);
+    border-style: solid;
+    height: 70px;
+    width: 130px;
+    border-radius: 10px;
+}
+
+.containerChildAlLink{
+    background-color: rgb(18, 45, 25);
+    border-style: solid;
+    height: 70px;
+    width: 130px;
+    border-radius: 10px;
+}
+
+.containerChildDiLink{
+    background-color: rgb(18, 45, 25);
+    border-style: solid;
+    height: 70px;
+    width: 130px;
+    border-radius: 10px;
+}
+
+.containerChildMP{
+    background-color: rgb(18, 45, 25);
+    border-style: solid;
+    height: 70px;
+    width: 260px;
+    border-radius: 10px;
+}
+
+/*Main photo*/
+
+.containerParentMP{
+    background-color: rgba(255, 115, 0, 0);
+    height: 400px;
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    border-radius: 10px;
+    align-items: center;
+}
+
+.containerChildMPh{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQISmyNNenj3pCDtsnw9QOGu7E_4A1l8T0tIQ&usqp=CAU");
+    border-style: solid;
+    height: 400px;
+    width: 650px;
+    border-radius: 10px;
+}
+
+/*Write*/
+
+.containerParentWriteRoman{
+    background-color: rgba(255, 115, 0, 0);
+    height: 100px;
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    border-radius: 10px;
+    align-items: center;
+}
+
+.containerParentWriteRoman1{
+    background-color: rgb(18, 45, 25);
+    border-style: solid;
+    height: 100px;
+    width: 800px;
+    border-radius: 50px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+}
+
+.containerChildNadpis{
+    background-color: rgba(18, 45, 25, 0);
+    height: 90px;
+    width: 770px;
+    border-radius: 10px;
+}
+
+/*Info*/
+
+.containerParentRomanInfo{
+    background-color: rgba(255, 115, 0, 0);
+    height: 500px;
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    border-radius: 10px;
+    align-items: center;
+}
+
+.containerChildRomanInfo{
+    background-color: rgb(18, 45, 25);
+    border-style: solid;
+    height: 500px;
+    width: 500px;
+    border-radius: 50px;
+}
+
+.containerChildRomanInfoPhoto{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQISmyNNenj3pCDtsnw9QOGu7E_4A1l8T0tIQ&usqp=CAU");
+    border-style: solid;
+    height: 500px;
+    width: 500px;
+    border-radius: 10px;
+}
+
+/*styles*/
+
+#textLink{
+    font-family: 'PT Sans Narrow', sans-serif;
+    color:rgb(213, 213, 213); 
+    text-align: center; 
+    font-size: 25px; 
+}
+
+#textMain{
+    font-family: 'PT Sans Narrow', sans-serif;
+    color:rgb(179, 179, 179); 
+    text-align: center; 
+    font-size: 40px; 
+}
+
+#textNM{
+    font-family: 'PT Sans Narrow', sans-serif;
+    color:rgb(223, 220, 220); 
+    text-align: center; 
+    font-size: 25px; 
+}

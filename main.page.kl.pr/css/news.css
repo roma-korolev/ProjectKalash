@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Doodle+Shadow&display=swap'); 
+html{ 
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiMjsoy106qtVmJsGmmH2pweuiYKDQMmpp6w&usqp=CAU);
+} 
+ 
+.containerParentmain{  
+    background-color: rgba(255, 230, 0, 0);  
+    height: 150px;  
+    width: auto;  
+    display: flex;  
+    flex-direction: row;  
+    flex-wrap: nowrap;  
+    justify-content: space-around;  
+      
+    border-radius: 0px;  
+}  
+.containerChildup{  
+    height: 100px;  
+    width: 840px;  
+    border-radius: 20px;  
+    background-color: rgb(250, 255, 110); 
+    border-style: solid;  
+}  
+ 
+.containerChildhome{ 
+    height: 50px; 
+    width: 50px; 
+    border-radius: 360px;  
+    background-color: aquamarine; 
+    border-style: solid;  
+} 
+#textOne{ 
+    font-family: 'PT Sans Narrow', sans-serif; 
+    text-align:center; 
+    font-size: 40px; 
+    color: black; 
+} 
+.containerParentnm{  
+    background-color: rgba(255, 230, 0, 0);  
+    height: 540px;  
+    width: auto;  
+    display: flex;  
+    flex-direction: row;  
+    flex-wrap: nowrap;  
+    justify-content: space-around;  
+    align-items: center;  
+    border-radius: 0px;  
+}  
+.containerChildc1{  
+    height: 540px;  
+    width: 250px;  
+    border-radius: 20px;  
+    background-color: rgb(250, 255, 110);   
+    border-style:solid;  
+}  
+#textTwo{ 
+    font-family: 'PT Sans Narrow', sans-serif;; 
+    text-align:center; 
+    font-size: 20px; 
+    color: black; 
+} 
+.containerChildc2{  
+    height: 540px;  
+    width: 250px;  
+    border-radius: 20px;  
+    background-color: rgb(250, 255, 110); 
+    border-style: solid;  
+}  
+.containerChildc3{  
+    height: 540px;  
+    width: 250px;  
+    border-radius: 20px;  
+    background-color: rgb(250, 255, 110); 
+    border-style: solid;   
+}  
+ 
+.containerChilddn{  
+    height: 100px;  
+    width: 840px;  
+    border-radius: 20px;  
+    background-color: rgba(115, 255, 0, 0.682);  
+}
+
+#textLink{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    text-align:center; 
+    font-size: 20px; 
+    color: rgb(255, 190, 60); 
+    -webkit-text-stroke: 5%;
+}
+
+#textNews{
+    font-family: 'Lobster', sans-serif;
+    text-align:center; 
+    font-size: 40px; 
+    color: black; 
+}

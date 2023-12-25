@@ -1,0 +1,131 @@
+html{
+    background-image: url(https://i.pinimg.com/originals/0b/06/39/0b06397a3199bee4a5922ee4488ebf5a.jpg)
+}
+@import url('https://fonts.googleapis.com/css2?family=Kalnia&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap');
+
+/*header*/
+
+
+.headerConteiner{
+    height: 100px;
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: end;
+    align-items: center;
+    border-radius: 10px;
+    order: 0;
+    text-align: end;
+}
+.headerContainerChild{
+    height: 100px;
+    width: 100px;
+    border-radius: 70px;
+    margin: 5px;
+}
+.headerContainerChildOne{
+    height: 100px;
+    width: 100px;
+    border-radius: 70px;
+    margin: 5px;
+}
+.headerContainerChildTwo{
+    height: 100px;
+    width: 100px;
+    border-radius: 70px;
+   margin: 5px;
+}
+.headerContainerChildThree{
+    height: 70px;
+    width: 250px;
+    border-radius: 30px;
+    margin: 10px;
+}
+
+/*Main Part*/
+
+.containerParent{
+     height: 300px;
+     width: auto;
+     display: flex;
+     flex-direction: row;
+     flex-wrap: nowrap;
+     justify-content: space-around;
+     border-radius: 10px;
+     align-items: center;
+ }
+ .conteinerChildOne{
+     height: 100px;
+     width: 1000px;
+     border-radius: 0px;
+     font-family: 'Kalnia', serif;
+ }
+ .conteinerChild{
+    height: 350px;
+    width: 350px;
+    border-radius: 200px; 
+    border-style: solid;   
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQISmyNNenj3pCDtsnw9QOGu7E_4A1l8T0tIQ&usqp=CAU") 
+ }
+ 
+ /*Footer*/
+ 
+ .footerConteiner{
+    height: 700px;
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    border-radius: 10px;
+    justify-content: space-around;
+    align-items: center;
+    order: 0;
+}
+ .footerConteinerChild{
+    height: 350px;
+    width: 350px;
+    background-color:black;
+    border-radius: 30px;
+    margin: 5px;
+    border-style: solid;
+}
+ .footerConteinerChild1{
+    height: 300px;
+    width: 300px;
+    /*background-color:black;*/
+    border-radius: 30px;
+    margin: 5px;
+    border-style: solid;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQISmyNNenj3pCDtsnw9QOGu7E_4A1l8T0tIQ&usqp=CAU");
+ }
+ .footerConteinerChild2{
+    height: 350px;
+    width: 350px;
+    background-color: black;
+    margin: 5px;
+    border-style: solid;
+    border-radius: 30px;
+ }
+
+/*text*/
+
+ #textOne{
+    font-family: 'Kalnia', serif;
+    color: white;
+    text-align: center;
+    font-size: 100px;
+ }
+ #textTwo{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+ }
+
+ #textLink{
+    font-family: 'PT Sans Narrow', sans-serif;
+    color:rgb(223, 223, 223); 
+    text-align: center; 
+    font-size: 25px; 
+ }
